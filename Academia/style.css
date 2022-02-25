@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: tahoma;
+}
+body {
+    background-color: #cfd8df;
+}
+
+main {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #8e9aaf;
+}
+
+#titprincipal {
+    font-size: 50px;
+}
+
+img {
+    width: 100%;
+}
+
+.miniaturas, .principal, .legenda {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.imagem {
+    width: 9%;
+    float: left;
+}
+
+#titimagem {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(#b3bcca, #8e9aaf, #7a879c);
+    color: black;
+    width: 70%;
+    margin: 15px auto;
+    margin-bottom: 4px;
+    padding: 0.2em;
+    font-size: 1.5em;
+    border-radius: 0.2em;
+}
+
+#subtitulo {
+    background-color: #fdd85d;
+    font-size: 30px;
+    text-align: center;
+}
+
