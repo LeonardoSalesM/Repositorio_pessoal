@@ -52,7 +52,9 @@ img {
 }
 
 table {
-    margin-left: 850px;
+    margin-top: 20px;
+    margin-left: 1100px;
+    position: absolute;
 }
     
 
@@ -75,8 +77,21 @@ td {
     width: 70px;
     height: 70px;
     position: absolute;
-    margin-top: -85px;
-    margin-left: 1250px;
+    margin-top: -155px;
+    margin-left: 1260px;
     border: 1px black;
     border-style: double;
+}
+
+.coluna {
+ background-color: #8e9aaf;
+}
+
+.linha {
+    background-color: #fdd85d;
+}
+
+#listexercicio1 {
+    margin-left: -140px;
+    margin-right: 140px;
 }
